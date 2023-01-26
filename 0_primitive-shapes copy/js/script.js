@@ -1,0 +1,6 @@
+basicShapesApp.init()
+// basicShapesApp.drawSquare()
+// basicShapesApp.drawRegularLines()
+// basicShapesApp.drawDashedLines()
+// basicShapesApp.drawArc()
+basicShapesApp.drawText('POPINO IS LOVE')
